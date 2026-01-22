@@ -1,4 +1,4 @@
-# विषय-सूची (Table of Contents)
+### विषय-सूची
 
 * [प्रस्तावना (आजमगढ़)](chapters/ch0-karma-tapo-bhoomi.md)
 * [अध्याय १: शून्य से सृजन](chapters/ch1-creation.md)
