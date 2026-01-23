@@ -1,6 +1,6 @@
 ## विषय-सूची
-
-* [प्रस्तावना (आजमगढ़)](chapters/ch0-karma-tapo-bhoomi.md)
+* [प्रस्तावना](chapters/premble.md)
+* [अध्याय 0 (आजमगढ़)](chapters/ch0-karma-tapo-bhoomi.md)
 * [अध्याय १: शून्य से सृजन](chapters/ch1-creation.md)
 * [अध्याय २: महर्षि अत्रि](chapters/ch2-atri-tapas.md)
 * [अध्याय ३: सती अनुसूया](chapters/ch3-anasuya.md)
